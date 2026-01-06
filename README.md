@@ -23,7 +23,7 @@ O Pulse. é uma aplicação web que permite acompanhar check-ins diários, métr
 
 ## Autor
 
-Lucas Kikuthi – [LinkedIn]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/lucas-kikuthi-866358246/))  
+Lucas Kikuthi – [LinkedIn](https://www.linkedin.com/in/lucas-kikuthi-866358246/)  
 
 ## Licença e Direitos
 
@@ -32,4 +32,4 @@ Lucas Kikuthi – [LinkedIn]([https://www.linkedin.com/in/seu-linkedin](https://
 
 ---
 
-> Este projeto é de uso pessoal e acadêmico, não deve ser replicado sem
+> Este projeto é de uso pessoal e acadêmico, não deve ser replicado ou utilizado sem a permissão do autor.
